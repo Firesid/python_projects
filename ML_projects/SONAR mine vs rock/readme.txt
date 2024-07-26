@@ -1,1 +1,3 @@
+In this rock vs mine prediction we will be using a dataset downloaded from kaggle which has 208 values. We are using python and machine learning algorithm to predict weather we encounter a mine or a rock in the sea from the SONAR data that is being received and collected.
 
+The machine learning model used for this project will be logistic regression. The reason for choosing logistic regression model is to find the probability of a binary outcome, such as yes or no, pass or fail, or true or false, given an input variable. As our input variable for this project will be rock or mine, we will be going with this ML model to predict our outcome.
